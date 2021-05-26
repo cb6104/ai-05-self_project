@@ -13,6 +13,19 @@ In this project, I make use of the dataset "OnlineRetail.csv" from the website: 
 This dataset contains all purchases made for an online retail company based in the UK during an eight month period. The dataset includes 8 columns (all explanatory variables) with no response values. 
 
 For this dataset, I conducted two main analyses:
+
 1/ Customer clustering using RFM (recency - frequency - monetary) analysis. By creating a RFM table, I cluster customers into groups to find out which customer cluster to focus efforts on to generate the most profits. Both k-means and hierarchical clustering are applied in this project to compare clustering results.
 
 2/ Find out buying behaviors: I make use of Apriori algorithms to find out list of products that are bought together most often.
+
+## dm-04 (Naive Bayes Classifier 1)
+
+My project uses the dataset "Bank Marketing" for the purpose of creating a model to correctly predict if customers will make a term deposit or not using data of 16 explanatory variables and 1 response variable. Among 16 explanatory variables, 9 are non-numeric, which means they will be preprocessed to dummy variables. The response value is in binary type: "yes" and "no".
+
+In this project, for simplicity I will only focus on two models: Naive Bayes Classifier (Gaussian) and Logistic Regression model. I also assume a profit formula to evaluate two models and find out the one which brings about the largest amount of profit. I also use the variable selection function to pick out variables which generate best profit out of all models.
+
+## dm-05 (Naive Bayes Classifier 2):
+
+My project uses the Reddit API to get Reddit user's posts as the dataset for the purpose of creating a model to correctly predict the topic of each post. The explanatory variable is "body" (the body of a post), and the response variable is "subreddit" (topic of the post). In this analysis, we only deal with 5 response values: 'MachineLearning', 'DeepLearning', 'ImageProcessing', 'DataAnalysis', 'Python'.
+
+In this project, for simplicity I will only focus on two models: Naive Bayes Classifier and Neural Network model. Test accuracy is used as the metrics to compare two models and give conclusions.
