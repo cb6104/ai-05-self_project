@@ -30,6 +30,14 @@ My project uses the Reddit API to get Reddit user's posts as the dataset for the
 
 In this project, for simplicity I will only focus on two models: Naive Bayes Classifier and Neural Network model. Test accuracy is used as the metrics to compare two models and give conclusions.
 
-## 5/ dm-06 (Principal Component Analysis)
+## 5/ dm-06 (Dimensionality Reduction 1)
 
 Data source: https://archive.ics.uci.edu/ml/datasets/bank+marketing
+
+
+
+
+## 6/ dm-07 (Dimensionality Reduction 2)
+
+Data source: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+
