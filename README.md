@@ -32,4 +32,4 @@ In this project, for simplicity I will only focus on two models: Naive Bayes Cla
 
 ## 5/ dm-06 (Principal Component Analysis)
 
-Data source: https://www.kaggle.com/henriqueyamahata/bank-marketing
+Data source: https://archive.ics.uci.edu/ml/datasets/bank+marketing
