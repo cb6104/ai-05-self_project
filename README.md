@@ -29,3 +29,7 @@ In this project, for simplicity I will only focus on two models: Naive Bayes Cla
 My project uses the Reddit API to get Reddit user's posts as the dataset for the purpose of creating a model to correctly predict the topic of each post. The explanatory variable is "body" (the body of a post), and the response variable is "subreddit" (topic of the post). In this analysis, we only deal with 5 response values: 'MachineLearning', 'DeepLearning', 'ImageProcessing', 'DataAnalysis', 'Python'.
 
 In this project, for simplicity I will only focus on two models: Naive Bayes Classifier and Neural Network model. Test accuracy is used as the metrics to compare two models and give conclusions.
+
+## 5/ dm-06 (Principal Component Analysis)
+
+Data source: https://www.kaggle.com/henriqueyamahata/bank-marketing
