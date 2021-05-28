@@ -41,3 +41,7 @@ Data source: https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
 Data source: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
+
+## 7/ ai-07 (Classification Prediction Accuracy)
+
+Data source: https://www.kaggle.com/imsparsh/churn-risk-rate-hackerearth-ml?select=train.csv
